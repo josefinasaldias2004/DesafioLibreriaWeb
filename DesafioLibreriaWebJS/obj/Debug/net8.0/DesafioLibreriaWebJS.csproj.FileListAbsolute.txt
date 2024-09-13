@@ -1,0 +1,14 @@
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\bin\Debug\net8.0\DesafioLibreriaWebJS.exe
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\bin\Debug\net8.0\DesafioLibreriaWebJS.deps.json
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\bin\Debug\net8.0\DesafioLibreriaWebJS.runtimeconfig.json
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\bin\Debug\net8.0\DesafioLibreriaWebJS.dll
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\bin\Debug\net8.0\DesafioLibreriaWebJS.pdb
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.AssemblyInfoInputs.cache
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.AssemblyInfo.cs
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.csproj.CoreCompileInputs.cache
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.dll
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\refint\DesafioLibreriaWebJS.dll
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.pdb
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\DesafioLibreriaWebJS.genruntimeconfig.cache
+C:\Users\josef\OneDrive\Imágenes\Escritorio\DesafioLibreriaWebJS\DesafioLibreriaWebJS\obj\Debug\net8.0\ref\DesafioLibreriaWebJS.dll
